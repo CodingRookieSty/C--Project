@@ -34,6 +34,7 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.clang_format_sortIncludes": true,
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
